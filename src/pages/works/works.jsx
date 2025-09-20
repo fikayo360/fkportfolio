@@ -25,7 +25,7 @@ export const Works = () => {
     github: "https://github.com/fikayo360/chessApi"
   },
   {
-    id: 4,
+    id: 4, 
     title: "E-commerce Review Sentiment Analysis Bot",
     description: "A bot that scrapes product reviews and performs sentiment analysis to classify customer feedback.",
     image: "./sentimentReview.png",
